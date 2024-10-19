@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:,regular,500,600,700);
+// base
+@import "./base/reset";
+
+// block
+@import "./blocks/header.scss";
+@import "./blocks/nav.scss";
+@import "./blocks/social.scss";
+@import "./blocks/see-more.scss";
+@import "./blocks/slider-controls.scss";
+@import "./blocks/slide.scss";
+@import "./blocks/locations.scss";
+@import "./blocks/swiper.scss";
+@import "./blocks/mobile-nav.scss";
+@import "./blocks/loader.scss";
